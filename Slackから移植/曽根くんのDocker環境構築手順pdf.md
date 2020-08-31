@@ -19,13 +19,7 @@ dockerlogin
 "コマンドで
 Dockerhubにログイン
 
-Username-
 
-hackathonIite2020
-
-Password
-
-hack@2020
 
 ・実行するディレクトリはどこでも大丈夫です。
 

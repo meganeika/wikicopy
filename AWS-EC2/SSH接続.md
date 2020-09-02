@@ -1,7 +1,9 @@
 # 前提
-[初回のみ]()の手順に従い、sshキーが配置されている前提で進みます
+[初回の設定](https://gitlab.com/hackathon_lite_SKFRONT/sandbox/-/wikis/Git+Docker-%E5%85%A8%E5%93%A1%E5%90%91%E3%81%91/1.%E5%88%9D%E5%9B%9E%E3%81%AE%E8%A8%AD%E5%AE%9A)の手順に従い、sshキーが配置されているという前提で進みます
 
-dockerのターミナルや、git-bashを用いて、以下コマンド
+# コマンド
+
+dockerのターミナルや、git-bash、TeraTermを用いて、以下コマンド
 
 （カレントはどこでも大丈夫です）
 

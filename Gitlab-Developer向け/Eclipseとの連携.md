@@ -1,0 +1,12 @@
+Ver.2019-12で動作確認済みです
+
+![VirtualBox_mint64mate_04_09_2020_17_14_18](uploads/3049bcde842b25908f23a2032c0f3b3a/VirtualBox_mint64mate_04_09_2020_17_14_18.png)
+
+![VirtualBox_mint64mate_04_09_2020_17_17_02](uploads/053ea8e0f1f2460bbde1af5e62a09f1d/VirtualBox_mint64mate_04_09_2020_17_17_02.png)
+
+![VirtualBox_mint64mate_04_09_2020_17_18_04](uploads/194f9b5fd90cee970710db6506046b0d/VirtualBox_mint64mate_04_09_2020_17_18_04.png)
+
+![VirtualBox_mint64mate_04_09_2020_17_21_20](uploads/fbd71f8641d3650a94271ebd071dcffa/VirtualBox_mint64mate_04_09_2020_17_21_20.png)
+
+
+# 特定のブランチへのAdd&Commit&Pushの方法はまだわからないので、わかり次第手順に追加します
